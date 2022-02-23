@@ -3,7 +3,9 @@
 
 ## Project Description :
 
-In this project I designed and developed software WCF service application that provides useful business logics and functions as middleware objects.I developed this program using Microsoft Visual Studio C# development tool.
+For this project I designed and developed software WCF service application that provides useful business logics and functions as middleware objects.
+
+I developed this program using Microsoft Visual Studio C# development tool.
 The software WCF service application have documented and tested using Microsoft Visual Studio C#  Web GUI .
 
 This project is based on database which called “hr_department database” . 
