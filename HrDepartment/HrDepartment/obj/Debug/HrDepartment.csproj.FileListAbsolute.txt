@@ -1,0 +1,7 @@
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\bin\HrDepartment.dll.config
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\bin\HrDepartment.dll
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\bin\HrDepartment.pdb
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\obj\Debug\HrDepartment.csprojAssemblyReference.cache
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\obj\Debug\HrDepartment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\obj\Debug\HrDepartment.dll
+C:\Users\Administrator.INTERGY14\source\repos\HrDepartment\HrDepartment\obj\Debug\HrDepartment.pdb
